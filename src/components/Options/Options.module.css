@@ -1,0 +1,6 @@
+.optionsContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: space-around;
+}

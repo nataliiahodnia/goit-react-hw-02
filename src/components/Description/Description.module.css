@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+  font-size: 122px;
+  color: #ed3b44;
+}
+
+.happens {
+  color: white;
+}
+
+.descriptionText {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 500;
+  width: 600px;
+  margin-bottom: 72px;
+}
+
+.bold {
+  font-weight: bold;
+  color: #ed3b44;
+}
